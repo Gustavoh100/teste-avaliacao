@@ -1,0 +1,24 @@
+{
+  "name": "teste-avaliacao",
+  "version": "0.0.1",
+  "description": "oopaaa",
+  "homepage": "https://github.com/Gustavoh100/teste-avaliacao#readme",
+  "bugs": {
+    "url": "https://github.com/Gustavoh100/teste-avaliacao/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavoh100/teste-avaliacao.git"
+  },
+  "license": "ISC",
+  "author": "Gustavo Henrique ",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
